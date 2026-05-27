@@ -4,11 +4,15 @@
 [![R-CMD-check](https://github.com/finleya/spBayes/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/finleya/spBayes/actions/workflows/R-CMD-check.yaml)
 [![pkgdown](https://github.com/finleya/spBayes/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/finleya/spBayes/actions/workflows/pkgdown.yaml)
 
+<img src="man/figures/logo.png" alt="spBayes package hex logo" align="left" width="130" style="margin: 0 1.2rem 0.6rem 0;">
+
 `spBayes` fits Bayesian univariate and multivariate spatial and
 spatio-temporal regression models for point-referenced data. The package
 provides MCMC-based model fitting, posterior recovery of spatial random
 effects, prediction at new locations, model diagnostics, and utilities for
 building spatial covariance matrices.
+
+<br clear="left"/>
 
 ## Installation
 
