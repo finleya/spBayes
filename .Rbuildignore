@@ -1,0 +1,9 @@
+^\.github$
+^\.gitignore$
+^_pkgdown\.yml$
+^cran-comments\.md$
+^tools$
+^docs$
+^pkgdown$
+^public$
+^README\.Rmd$

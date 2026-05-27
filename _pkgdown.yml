@@ -1,0 +1,42 @@
+url: https://finleya.github.io/spBayes/
+
+template:
+  bootstrap: 5
+
+navbar:
+  structure:
+    left: [intro, reference, articles, news]
+    right: [search, github]
+
+reference:
+  - title: Core spatial models
+    contents:
+      - spLM
+      - spGLM
+      - spMvLM
+      - spMvGLM
+      - spSVC
+      - spDynLM
+  - title: Prediction, recovery, and diagnostics
+    contents:
+      - spPredict
+      - spRecover
+      - spDiag
+      - mkSpCov
+      - mkMvX
+      - iDist
+      - pointsInPoly
+  - title: Bayesian regression utilities
+    contents:
+      - bayesLMRef
+      - bayesGeostatExact
+      - bayesLMConjugate
+      - adaptMetropGibbs
+  - title: Misaligned data models
+    contents:
+      - spMisalignLM
+      - spMisalignGLM
+  - title: Data
+    contents:
+      - ends_with(".dat")
+      - PM10.poly
