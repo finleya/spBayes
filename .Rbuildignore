@@ -8,3 +8,4 @@
 ^pkgdown$
 ^public$
 ^README\.Rmd$
+^index\.md$
