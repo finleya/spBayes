@@ -1,0 +1,40 @@
+citation(auto = meta)
+
+bibentry(bibtype = "Article",
+  title        = "{spBayes}: An {R} Package for Univariate and Multivariate Hierarchical Point-Referenced Spatial Models",
+  author       = c(person(c("Andrew O.", "Finley")),
+                   person("Sudipto Banerjee"),
+                   person(c("Bradley P.", "Carlin"))),
+  journal      = "Journal of Statistical Software",
+  year         = "2007",
+  volume       = "19",
+  number       = "4",
+  pages        = "1--24",
+  url          = "https://www.jstatsoft.org/article/view/v019i04",
+
+  textVersion  =
+  paste("Andrew O. Finley, Sudipto Banerjee, Bradley P. Carlin (2007).",
+        "spBayes: An R Package for Univariate and Multivariate Hierarchical Point-Referenced Spatial Models.",
+        "Journal of Statistical Software, 19(4), 1-24.",
+        "URL https://www.jstatsoft.org/article/view/v019i04.")
+)
+
+bibentry(bibtype = "Article",
+  title        = "{spBayes} for Large Univariate and Multivariate Point-Referenced Spatio-Temporal Data Models",
+  author       = c(person(c("Andrew O.", "Finley")),
+                   person("Sudipto Banerjee"),
+                   person(c("Alan E.", "Gelfand"))),
+  journal      = "Journal of Statistical Software",
+  year         = "2015",
+  volume       = "63",
+  number       = "13",
+  pages        = "1--28",
+  url          = "https://www.jstatsoft.org/article/view/v063i13",
+
+  textVersion  =
+  paste("Andrew O. Finley, Sudipto Banerjee, Alan E.Gelfand (2015).",
+        "spBayes for Large Univariate and Multivariate Point-Referenced Spatio-Temporal Data Models.",
+        "Journal of Statistical Software, 63(13), 1-28.",
+        "URL https://www.jstatsoft.org/article/view/v063i13.")
+)
+
