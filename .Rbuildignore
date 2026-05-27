@@ -3,6 +3,7 @@
 ^_pkgdown\.yml$
 ^cran-comments\.md$
 ^tools$
+^dev$
 ^docs$
 ^pkgdown$
 ^public$
